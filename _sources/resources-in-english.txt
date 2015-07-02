@@ -57,3 +57,25 @@ entrepreneurship in all areas and phases of company foundation, consolidation
 and succession.
 
 * `National Agency for Women Start-ups Activities and Services <http://www.existenzgruenderinnen.de/EN/Home/home_node.html>`_
+
+Tax and freelancers in Germany
+------------------------------
+
+Becoming a freelancer or business owner in Germany can seem like a complicated
+process but these steps will set you up as a self-employed worker in Germany.
+
+* `Tax and freelancers in Germany <http://www.expatica.com/de/finance/Tax-and-freelancers-in-Germany_100950.html>`_
+
+Finance your projects with European Funds
+-----------------------------------------
+
+Practical tools to design a successful approach to obtain EU Funds
+
+* `Welcome Europe <http://www.welcomeurope.com/>`_
+
+Business Start-up and Support IHK Stuttgart
+-------------------------------------------
+
+Start-ups, Ownership succession, financing.
+
+* `Business Start-up and Support <http://www.stuttgart.ihk24.de/english/startup/startup_index/666374>`_
