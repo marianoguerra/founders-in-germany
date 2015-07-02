@@ -1,0 +1,1 @@
+Search.setIndex({envversion:46,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:[],page:0,search:0},titles:["Welcome to Founders in Germany&#8217;s documentation!"],titleterms:{document:0,founder:0,germani:0,indic:[],tabl:[],welcom:0}})
