@@ -1,6 +1,14 @@
 Resources in English
 ====================
 
+Starting a Business in Stuttgart
+--------------------------------
+
+Foreign companies aiming to do business in Germany have a lot of questions that
+need answering. The Stuttgart Economic Development staff is happy to help.
+
+* `Starting a Business in Stuttgart <http://www.stuttgart.de/en/item/show/268502>`_
+
 Setting up a business
 ---------------------
 
