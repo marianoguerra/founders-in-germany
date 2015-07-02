@@ -37,3 +37,26 @@ Accelerate Stuttgart
 Events, Incubation, Coaching, Spaces.
 
 * `Accelerate Stuttgart <http://accelerate-stuttgart.de/>`_
+
+Robert Bosch Venture Capital GmbH
+---------------------------------
+
+RBVC invests in startup companies either directly or via venture capital funds
+on a worldwide basis.
+
+We provide capital for minority stakes in startups from early to expansion stage.
+
+* `Robert Bosch Venture Capital GmbH <http://www.rbvc.com/en/startpage/startpage_page.html>`_
+
+Business Angels Region Stuttgart
+--------------------------------
+
+* `Business Angels Region Stuttgart <http://www.business-angels-region-stuttgart.de/>`_
+
+Institute for Business Innovation
+---------------------------------
+
+We combine established corporate culture with startup culture.
+
+* `IfBI <http://www.ifbi.eu/>`_
+

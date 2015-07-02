@@ -19,4 +19,5 @@ to be part of the community: `Founders in Germany Google Group <https://groups.g
    events-around-stuttgart
    resources-in-english
    places-and-organizations-around-stuttgart
+   places-and-organizations-in-germany
 
