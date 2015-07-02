@@ -3,15 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Founders in Germany's documentation!
-===============================================
-
-Contents:
+Resources for Founders in Germany
+=================================
 
 .. toctree::
    :maxdepth: 2
 
-
+   events-around-stuttgart
+   resources-in-english
 
 * :ref:`genindex`
 * :ref:`search`
