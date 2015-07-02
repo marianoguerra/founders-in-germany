@@ -1,6 +1,16 @@
 Events Around Stuttgart
 =======================
 
+Founders around Stuttgart Meetup
+--------------------------------
+
+Montly Meetup to share ideas, doubts and knowledge about founding a company in Germany.
+
+* `Foreign Startup & Enterpreneurs near Stuttgart Meetup <http://www.meetup.com/Foreign-Startup-Enterprenuers-near-Stuttgart-Meetup/>`_
+
+Language
+    English
+
 Gründergrillen Stuttgart
 ------------------------
 
