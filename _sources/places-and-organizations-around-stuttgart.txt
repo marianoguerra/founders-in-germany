@@ -60,3 +60,12 @@ We combine established corporate culture with startup culture.
 
 * `IfBI <http://www.ifbi.eu/>`_
 
+CODE_n Spaces
+-------------
+
+CODE_n creates spaces for pioneers to rub shoulders with like-minded people.
+The inspiring innovation ecosystem of CODE_n SPACES combines the open coworking
+approach with flexible and creative office solutions and a professional working
+environment.
+
+* `CODE_n SPACES <https://www.code-n.org/spaces>`_
