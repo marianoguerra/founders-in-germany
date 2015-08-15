@@ -177,8 +177,7 @@ Founders or entrepreneurs who want to receive a loan must allow to rate themselv
 Finance knowledge
 .................
 
-Securities http://bit.ly/QirNor
-
-Rating http://bit.ly/QirNor
+* `Securities <http://bit.ly/QirNor>`_
+* `Rating <http://bit.ly/SgaQLp>`_
 
 Page 4-12: TODO
