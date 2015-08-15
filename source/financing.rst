@@ -76,6 +76,64 @@ For those who want to increase the equity, there are many alternative equity sou
 
 Page 2: TODO
 
+Equity Sources
+..............
+
+Relatives and Friends
+    for small sums
+
+Partners and Shareholders
+    stakeholders can provide capital. However the may want to have a say in the company.
+
+Subordinated loans
+    The program "ERP capital for establishing" is intended for founders,
+    helping them to "stick to its own resources".
+
+
+Investment companies
+    Instead of a partner you can search through a stake in a publicly funded or
+    a private equity firm.
+
+
+Effects of Equity
+.................
+
+Apart from the fact that banks and financial institutions expect a certain
+amount of equity for most loans, available own money is an important "survival
+elixir" for every company.
+
+Equity gives Security
+.....................
+
+The more equity, the better: It reduces the risk of liquidity problems, which even in small
+deviations from the plan can occur (eg., by pre-financing of orders, lower sales at launch, expenses for research and development projects, etc.)
+
+Equity makes you independent
+............................
+
+Only someone who has enough equity, can react quickly and flexibly to new
+financing needs (eg. As investment at market change).
+
+
+Equity improves Rating
+......................
+
+Those who risk their own funds, can generally expect that he/she can convince
+others of his intention and get lending more easily.
+
+In addition, the proportion of own funds is used by the banks as an important
+criterion in the evaluation of creditworthiness in the rating process, the
+higher the credit rating, the lower the interest rates charged for loans.
+
+Capital and Know-How
+....................
+
+Equity can also flow through business partners into the company.
+Moreover, such partners often bring also additional expertise and active
+support to the company.
+
+Finance knowledge: `equity <http://bit.ly/QirbPC>`_
+
 Page 3:
 
 Founders and entrepreneurs that need more capital than they have usually borrow money.
