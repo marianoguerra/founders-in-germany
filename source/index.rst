@@ -20,4 +20,5 @@ to be part of the community: `Founders in Germany Google Group <https://groups.g
    resources-in-english
    places-and-organizations-around-stuttgart
    places-and-organizations-in-germany
+   financing
 
