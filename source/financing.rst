@@ -80,10 +80,10 @@ Equity Sources
 ..............
 
 Relatives and Friends
-    for small sums
+    For small sums
 
 Partners and Shareholders
-    stakeholders can provide capital. However the may want to have a say in the company.
+    Stakeholders can provide capital. However the may want to have a say in the company.
 
 Subordinated loans
     The program "ERP capital for establishing" is intended for founders,
@@ -163,9 +163,9 @@ Securities and Guarantees
 
 Banks give loans only when they are sure that they receive the borrowed money back. The borrower can provide this certainty himself. As securities one can use:
 
- - the success of the business idea
- - own capital
- - rateable/countable securities
+ - The success of the business idea
+ - Own capital
+ - Rateable/countable securities
 
 If the borrower cannot offer securities (or few securities), the private (rarely) or public guaranties of guarantee banks may help. 
 
