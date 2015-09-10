@@ -22,3 +22,20 @@ business or a strong focus on digital entrepreneurship.
 
 * `Wayra <http://wayra.co/de>`_
 
+Tech Founders
+-------------
+
+TechFounders is a 3-month international accelerator program based in Munich.
+The accelerator brings tech startups together with industry partners and
+venture capitalists. During the program you will have the chance to cooperate
+with one of our industry partners, who can help you develop your business. You
+will also have access to hardware prototypes, data and APIs in order to test
+and further develop your product.
+
+The aim of the program is to get you one of our industry partners as a high
+class customer or investor. Our Demo Day is the final highlight of the
+accelerator program and a great opportunity to raise capital if needed. There
+you will meet more than 100 VC’s, business angels, industry partners and press.
+TechFounders requires no fees and takes zero equity.
+
+* `TechFounders <http://www.techfounders.com/>`_
