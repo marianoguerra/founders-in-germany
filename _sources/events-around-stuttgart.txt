@@ -38,3 +38,9 @@ Build an amazing startup in Stuttgart, all over the course of one weekend.
 
 * `Startup Weekend Stuttgart <http://www.up.co/communities/germany/stuttgart/startup-weekend/>`_
 
+Leancamp Stuttgart
+-------------------
+
+Knowhow exchange between corporations and startups
+
+* `Leancamp Stuttgart <http://leancamp.net/stuttgart4/>`_
