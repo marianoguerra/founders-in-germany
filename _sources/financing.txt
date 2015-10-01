@@ -1,6 +1,73 @@
 Financing
 =========
 
+Mikromezzaninfonds-Deutschland
+------------------------------
+
+Visit `Mikromezzaninfonds-Deutschland Website <http://www.mikromezzaninfonds-deutschland.de/>`_ for more info.
+
+.. note::
+
+    This translation may not be accurate, please use it only as a reference
+
+Product Info
+............
+
+Mikromezzaninfonds serve to strengthen the equity base, legally it's a mix
+from equity and debt. Through the injected capital the rating will improve and
+create new credit oportunities.
+
+The investor has no vote or influence.
+
+Who can Apply?
+..............
+
+Applications may be from small and young companies and start-ups.
+Specific target groups are companies that are headed by women,
+people with an immigration background,
+or companies which are established from unemployment.
+
+Also commercially oriented social enterprises and environmentally oriented
+companies should be particularly addressed. Rescue projects and companies in
+difficulty are excluded.
+
+What will be funded?
+....................
+
+All investments in the construction of a new or the continuation of an existing
+company, for the long-term funding required.
+
+
+What is the funding?
+....................
+
+The promotion takes place as a silent participation by the SME investment
+companies in the federal states, in which the investment is made. The maximum
+contribution amount is 50,000 euros with a maturity of 10 years. The loan is
+paid back from the 7th year in 3 equal annual installments.
+
+Conditions
+::::::::::
+
+* 8% p.a., payable quarterly
+* Unique processing fee of 3.5% of the deposit, payable upon disbursement
+* Variable profit share of no more than 1.5% per annum
+
+Collateral
+::::::::::
+
+* No collateral required
+
+
+How to apply?
+.............
+
+Applications are submitted through the medium-sized investment company, in the
+State where the investment takes place.
+
+Article
+-------
+
 .. note::
 
     This information is taken from "GründerZeiten 06 Existenzgründungsfinanzierung"
