@@ -8,8 +8,19 @@ Montly Meetup to share ideas, doubts and knowledge about founding a company in G
 
 * `Foreign Startup & Enterpreneurs near Stuttgart Meetup <http://www.meetup.com/Foreign-Startup-Enterprenuers-near-Stuttgart-Meetup/>`_
 
-Language
-    English
+* Language: English
+
+Stuttgart International Women Entrepreneurs
+-------------------------------------------
+
+The purpose of this group is to meet like-minded women entrepreneurs while
+having a great time. So that we can help each other to move forward our
+projects and find common goals in which we can all become more successful.
+
+* `Stuttgart International Women Entrepreneurs <http://www.meetup.com/Stuttgart-International-Women-Entrepreneurs/>`_
+
+* Language: English
+
 
 Gründergrillen Stuttgart
 ------------------------
@@ -19,7 +30,7 @@ monthly event that gathers people interested in the startup scene, eat, drink
 and talk with like minded people.
 
 Language
-    German, but almost anyone speaks English
+    German, but almost everyone speaks English
 
 Startup Stuttgart Digest
 ------------------------
