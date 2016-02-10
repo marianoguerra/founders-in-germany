@@ -1,6 +1,9 @@
 Resources in English
 ====================
 
+Here is a portal for all Europe, you may find something useful there:
+`Startup Europe Club <http://startupeuropeclub.eu/>`_
+
 Starting a Business in Stuttgart
 --------------------------------
 
@@ -23,6 +26,7 @@ register.
 * `Ways of setting up your business <http://www.make-it-in-germany.com/en/for-qualified-professionals/working/setting-up-a-business-in-germany/ways-of-setting-up-your-business>`_
 * `Ways to Self-employment <http://www.existenzgruender.de/EN/Weg-in-die-Selbstaendigkeit/Start/inhalt.html>`_
 * `English version of the business start-up portal <http://www.existenzgruender.de/EN/Home/inhalt.html>`_
+* `Start your own business in the EU <http://europa.eu/business/startups/>`_
 
 Procedure to start a business in Germany
 ----------------------------------------
@@ -87,3 +91,9 @@ Business Start-up and Support IHK Stuttgart
 Start-ups, Ownership succession, financing.
 
 * `Business Start-up and Support <http://www.stuttgart.ihk24.de/english/startup/startup_index/666374>`_
+
+startuprad.io
+-------------
+
+* `Podcast with Startup News and Interviews from Germany <http://www.startuprad.io/>`_
+* `German podcast from the same people <http://www.startupradio.de/>`_

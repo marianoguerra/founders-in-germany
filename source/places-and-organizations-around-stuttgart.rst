@@ -69,3 +69,13 @@ approach with flexible and creative office solutions and a professional working
 environment.
 
 * `CODE_n SPACES <https://www.code-n.org/spaces>`_
+
+Arena42 Accelerator
+-------------------
+
+* `The Accelerator for Internet of Things Startups <http://arena42.de/>`_
+
+Activatr Accelerator
+--------------------
+
+* `Corporate Startup Accelerator <http://activatr.xyz/>`_
