@@ -8,6 +8,11 @@ Organizations
 * `BwCon: Baden Wuerttemberg Connected <http://www.bwcon.de/>`_
 * `High-Tech Unternehmertum Region Stuttgart <http://hiturs.region-stuttgart.de/>`_
 
+Tools
+-----
+
+* `Förderdatenbank <http://www.foerderdatenbank.de/Foerder-DB/Navigation/Foerderrecherche/suche.html>`_: Promotion Program Search Engine
+
 Articles
 --------
 
