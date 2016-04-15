@@ -92,6 +92,11 @@ Start-ups, Ownership succession, financing.
 
 * `Business Start-up and Support <http://www.stuttgart.ihk24.de/english/startup/startup_index/666374>`_
 
+Raising Business Angel Investment
+---------------------------------
+
+* `European Booklet for Entrepreneurs <http://www.epluseurope.eu/sites/default/files/Booklet%20Entrepreneurs%20ePlus.pdf>`_
+
 startuprad.io
 -------------
 
