@@ -79,3 +79,17 @@ Activatr Accelerator
 --------------------
 
 * `Corporate Startup Accelerator <http://activatr.xyz/>`_
+
+Startup Autobahn
+----------------
+
+Startup Autobahn is the accelerator program that unites global startups with the unrivalled tech expertise of Silicon Valley and the best of German engineering.
+
+* `Startup Autobahn <http://www.startup-autobahn.com/en/>`_
+
+Frag Dimitri
+------------
+
+A program to promote and help inmigrant founders.
+
+* `Frag Dimitri <http://www.frag-dimitri.de/>`_
