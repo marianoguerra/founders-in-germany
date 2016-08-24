@@ -38,21 +38,6 @@ Events, Incubation, Coaching, Spaces.
 
 * `Accelerate Stuttgart <http://accelerate-stuttgart.de/>`_
 
-Robert Bosch Venture Capital GmbH
----------------------------------
-
-RBVC invests in startup companies either directly or via venture capital funds
-on a worldwide basis.
-
-We provide capital for minority stakes in startups from early to expansion stage.
-
-* `Robert Bosch Venture Capital GmbH <http://www.rbvc.com/en/startpage/startpage_page.html>`_
-
-Business Angels Region Stuttgart
---------------------------------
-
-* `Business Angels Region Stuttgart <http://www.business-angels-region-stuttgart.de/>`_
-
 Institute for Business Innovation
 ---------------------------------
 
@@ -93,3 +78,41 @@ Frag Dimitri
 A program to promote and help inmigrant founders.
 
 * `Frag Dimitri <http://www.frag-dimitri.de/>`_
+
+Baden Wuerttemberg Connected e.V.
+---------------------------------
+
+Baden-Württemberg: Connected e.V. (bwcon) is the leading business initiative
+for the promotion of the high-tech sectors in the region with offices in
+Stuttgart and Freiburg.
+
+Established in 1997, the main goal of the network organization is to foster
+key-technologies in order to strengthen the region's economic development.
+
+Therefore, the focus of bwcon lies on information and communication
+technologies (ICT) which are seen as the innovation drivers for other
+industrial fields, such as mobility, production, health care and energy.
+
+* ` <http://www.bwcon.de/english.html>`_
+
+Robert Bosch Venture Capital GmbH
+---------------------------------
+
+RBVC invests in startup companies either directly or via venture capital funds
+on a worldwide basis.
+
+We provide capital for minority stakes in startups from early to expansion stage.
+
+* `Robert Bosch Venture Capital GmbH <http://www.rbvc.com/en/startpage/startpage_page.html>`_
+
+Business Angels Region Stuttgart
+--------------------------------
+
+* `Business Angels Region Stuttgart <http://www.business-angels-region-stuttgart.de/>`_
+
+Landes Bank Baden Wuerttemberg Venture Capital
+----------------------------------------------
+
+Venture capital arm of the Bank of Baden Wuerttemberg
+
+* `LBBW Venture Capital GmbH <http://www.lbbw-venture.de/>`_
