@@ -93,7 +93,7 @@ Therefore, the focus of bwcon lies on information and communication
 technologies (ICT) which are seen as the innovation drivers for other
 industrial fields, such as mobility, production, health care and energy.
 
-* ` <http://www.bwcon.de/english.html>`_
+* `Baden Wuerttemberg Connected <http://www.bwcon.de/english.html>`_
 
 Robert Bosch Venture Capital GmbH
 ---------------------------------
