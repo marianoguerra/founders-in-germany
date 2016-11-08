@@ -151,3 +151,10 @@ Informationen für Gründerinnen und Gründer (in German)
 ------------------------------------------------------
 
 * `Informationen für Gründerinnen und Gründer <https://www.stuttgart.ihk24.de/gruendung>`_
+
+
+Gründen an der Uni Stuttgart (in German)
+----------------------------------------
+
+* `Gründen an der Uni Stuttgart <https://www.tti-stuttgart.de/>`_
+
