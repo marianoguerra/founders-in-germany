@@ -116,3 +116,38 @@ Landes Bank Baden Wuerttemberg Venture Capital
 Venture capital arm of the Bank of Baden Wuerttemberg
 
 * `LBBW Venture Capital GmbH <http://www.lbbw-venture.de/>`_
+
+Grazia Equity
+-------------
+
+* `Grazia Equity <grazia.com/>`_
+
+VC Baden Wuerttemberg
+---------------------
+
+* `VC Baden Wuerttemberg <https://www.vc-bw.de/>`_
+
+Venture Forum Neckar (in German)
+--------------------------------
+
+* `Venture Forum Neckar <http://venture-forum-neckar.de/>`_
+
+Senioren der Wirtschaft (in German)
+-----------------------------------
+
+* `Senioren der Wirtschaft <http://www.senioren-der-wirtschaft.de/>`_
+
+Steinbeis (in German)
+---------------------
+
+* `Steinbeis <http://steinbeis-exi.de/>`_
+
+Existenzgründung Stuttgart (in German)
+--------------------------------------
+
+* `Existenzgründung Stuttgart <http://www.stuttgart.de/existenzgruendung>`_
+
+Informationen für Gründerinnen und Gründer (in German)
+------------------------------------------------------
+
+* `Informationen für Gründerinnen und Gründer <https://www.stuttgart.ihk24.de/gruendung>`_
