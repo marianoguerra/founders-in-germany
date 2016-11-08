@@ -127,6 +127,11 @@ VC Baden Wuerttemberg
 
 * `VC Baden Wuerttemberg <https://www.vc-bw.de/>`_
 
+Software Zentrum Böblingen
+--------------------------
+
+* `Software Zentrum Böblingen <http://www.softwarezentrum.de/english.html>`_
+
 Venture Forum Neckar (in German)
 --------------------------------
 
