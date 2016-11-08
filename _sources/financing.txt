@@ -1,6 +1,11 @@
 Financing
 =========
 
+Innovationsgutscheine Baden-Württemberg (in German)
+---------------------------------------------------
+
+* `Innovationsgutscheine Baden-Württemberg <https://wm.baden-wuerttemberg.de/de/innovation/innovationsgutscheine/>`_
+
 Mikromezzaninfonds-Deutschland
 ------------------------------
 
