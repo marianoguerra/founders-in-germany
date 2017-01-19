@@ -72,6 +72,18 @@ Startup Autobahn is the accelerator program that unites global startups with the
 
 * `Startup Autobahn <http://www.startup-autobahn.com/en/>`_
 
+Live at Stuttgart
+-----------------
+
+Project to create a big building for startups, artists, designers, makers, corporates.
+
+* `Live at Work - Stuttgart <https://www.liveatwork.com/liveatstuttgart>`_
+
+Wizemann Space
+--------------
+
+* `Coworking Space. Idea & Innovation Lab. Social Impact Community <http://wizemann.space/>`_
+
 Frag Dimitri
 ------------
 
@@ -163,3 +175,7 @@ Gründen an der Uni Stuttgart (in German)
 
 * `Gründen an der Uni Stuttgart <https://www.tti-stuttgart.de/>`_
 
+Startup Center Hochschule der Medien (in German)
+------------------------------------------------
+
+* `Generator, Dem Startup Center Der Hochschule Der Medien Stuttgart <https://startupcenter-stuttgart.de/>`_
