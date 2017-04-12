@@ -24,6 +24,16 @@ Two co working spaces in Stuttgart, one in Stuttgart West, the other in Startup 
 
 * `CoWorking 0711 <http://coworking0711.de/>`_
 
+Coworking Cafe 101
+------------------
+
+* http://www.coworkingstuttgart.de/
+
+Coworking Profi Table
+---------------------
+
+* http://coworking-profitable.de/
+
 Startup Stuttgart
 -----------------
 
@@ -179,3 +189,24 @@ Startup Center Hochschule der Medien (in German)
 ------------------------------------------------
 
 * `Generator, Dem Startup Center Der Hochschule Der Medien Stuttgart <https://startupcenter-stuttgart.de/>`_
+
+Technostart
+-----------
+
+TechnoStart is a venture capital organisation with over € 80 million under
+management. Since 1991, we have focused on Seed & Early Stage Technology
+companies in the fields of Applied Physics, Life Sciences, Chemistry and New
+Materials. TechnoStart has the experience and expertise to assist entrepreneurs
+in establishing companies from scratch.
+
+* `Technostart <http://www.technostart.com/>`_
+
+Social Impact Lab Stuttgart
+---------------------------
+
+http://stuttgart.socialimpactlab.eu/
+
+Exzet
+-----
+
+http://www.exzet.de
