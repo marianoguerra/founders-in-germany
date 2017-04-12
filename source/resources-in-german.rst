@@ -1,6 +1,11 @@
 Resources in German
 ===================
 
+Sites
+-----
+
+* `startup-region-stuttgart.de <http://www.startup-region-stuttgart.de>`_
+
 Organizations
 -------------
 
