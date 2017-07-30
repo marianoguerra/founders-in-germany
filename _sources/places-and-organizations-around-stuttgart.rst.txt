@@ -24,7 +24,6 @@ Two co working spaces in Stuttgart, one in Stuttgart West, the other in Startup 
 
 * `CoWorking 0711 <http://coworking0711.de/>`_
 
-<<<<<<< HEAD
 Coworking Cafe 101
 ------------------
 
@@ -35,8 +34,6 @@ Coworking Profi Table
 
 * http://coworking-profitable.de/
 
-=======
->>>>>>> rebuild
 Startup Stuttgart
 -----------------
 
@@ -157,8 +154,6 @@ Software Zentrum Böblingen
 
 * `Software Zentrum Böblingen <http://www.softwarezentrum.de/english.html>`_
 
-<<<<<<< HEAD
-=======
 Startup Atlas Baden-Württemberg
 -------------------------------
 
@@ -174,7 +169,6 @@ VentureZphere
 
 * `VentureZphere <https://www.venturezphere.com/>`_
 
->>>>>>> rebuild
 Venture Forum Neckar (in German)
 --------------------------------
 
@@ -210,7 +204,6 @@ Startup Center Hochschule der Medien (in German)
 ------------------------------------------------
 
 * `Generator, Dem Startup Center Der Hochschule Der Medien Stuttgart <https://startupcenter-stuttgart.de/>`_
-<<<<<<< HEAD
 
 Technostart
 -----------
@@ -232,5 +225,3 @@ Exzet
 -----
 
 http://www.exzet.de
-=======
->>>>>>> rebuild

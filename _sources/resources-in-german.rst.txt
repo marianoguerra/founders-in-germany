@@ -1,14 +1,11 @@
 Resources in German
 ===================
 
-<<<<<<< HEAD
 Sites
 -----
 
 * `startup-region-stuttgart.de <http://www.startup-region-stuttgart.de>`_
 
-=======
->>>>>>> rebuild
 Organizations
 -------------
 
