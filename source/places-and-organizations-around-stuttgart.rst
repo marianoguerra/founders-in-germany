@@ -154,6 +154,21 @@ Software Zentrum Böblingen
 
 * `Software Zentrum Böblingen <http://www.softwarezentrum.de/english.html>`_
 
+Startup Atlas Baden-Württemberg
+-------------------------------
+
+* `Startup Atlas Baden-Württemberg <https://startup-atlas.de/>`_
+
+Startup Spot Baden-Württemberg
+------------------------------
+
+* `Startup Spot Baden-Württemberg <https://baden-wuerttemberg.startupspot.de/>`_
+
+VentureZphere
+-------------
+
+* `VentureZphere <https://www.venturezphere.com/>`_
+
 Venture Forum Neckar (in German)
 --------------------------------
 
