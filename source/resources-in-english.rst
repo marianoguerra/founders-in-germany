@@ -102,3 +102,4 @@ startuprad.io
 
 * `Podcast with Startup News and Interviews from Germany <http://www.startuprad.io/>`_
 * `German podcast from the same people <http://www.startupradio.de/>`_
+* `Youtube Channel for Startup Radio <https://www.youtube.com/startupradio>`_
